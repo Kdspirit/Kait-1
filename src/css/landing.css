@@ -1,0 +1,58 @@
+.landing-wrapper {
+  background: black;
+  height: 99vh;
+  padding: 33px;
+}
+.home-container {
+  display: grid;
+  justify-content: center;
+}
+.trade-mark {
+  color: #edf0f2;
+  font-weight: 700;
+  font-size: xx-large;
+}
+img.kait-logo {
+  height: 55vh;
+}
+.new-kind-emp {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 29px;
+  text-align: center;
+  transform: translateY(-74px);
+}
+.home-btns {
+  display: flex;
+  justify-content: space-around;
+}
+.redirect-btns {
+  font-size: 18px;
+  color: #ffffffff;
+  width: 463px;
+  height: 52px;
+  background: #323743ff;
+  padding: 0 20px;
+  border: none;
+  border-radius: 6px;
+}
+.navigation-wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  height: 60px;
+  width: 437px;
+  align-items: center;
+  font-family: Manrope;
+  font-size: 12px;
+  line-height: 20px;
+  margin: 69px auto;
+}
+.navigation-tabs {
+  display: grid;
+}
+.fa-imgs {
+}
+.tabs-name {
+  margin-top: 3px;
+  font-size: medium;
+}

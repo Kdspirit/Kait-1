@@ -1,0 +1,68 @@
+.job-details-card {
+    width: 265px;
+    height: 248px;
+    background: #FFFFFFFF;
+    border-radius: 6px;
+    box-shadow: 0px 0px 1px #171a1f, 0px 0px 2px #171a1f;
+    font-family: Manrope;
+    /* font-size: 12px; */
+    line-height: 20px;
+    color: #171A1FFF;
+}
+.faq-qna-career {
+    width: 60vw;
+    height: 74vh;
+    /* background: antiquewhite; */
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+}
+.job-details-card {
+    width: 265px;
+    height: 248px;
+    background: #FFFFFFFF;
+    border-radius: 6px;
+    box-shadow: 0px 0px 1px #171a1f, 0px 0px 2px #171a1f;
+    font-family: Manrope;
+    font-size: 12px;
+    line-height: 20px;
+    color: #171A1FFF;
+    padding: 10px 15px;
+    margin: 17px;
+}
+.designation {
+    font-family: Manrope;
+    font-size: 16px;
+    line-height: 26px;
+    color: #171A1FFF;
+}
+.job-location {
+    font-family: Manrope;
+    font-size: 14px;
+    line-height: 22px;
+    color: #9095A1FF;
+}
+.job-desc {
+    width: 233px;
+    height: 60px;
+    font-family: Manrope;
+    font-size: 12px;
+    /* line-height: 20px; */
+    color: #171A1FFF;
+}
+.apply-btn {
+    /* width: 233px; */
+    height: 36px;
+    /* padding: 0 12px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* font-family: Manrope; */
+    font-size: 14px;
+    /* line-height: 22px; */
+    color: #FFFFFFFF;
+    background: #8A15FFFF;
+    /* opacity: 1; */
+    border: none;
+    border-radius: 6px;
+}

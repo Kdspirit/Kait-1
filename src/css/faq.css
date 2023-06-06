@@ -1,0 +1,28 @@
+.logo-text {
+    color: #ffffff;
+    transform: translate(0px, 10px);
+}
+.faq-section {
+    color: #fff;
+    display: flex;
+    height: 64vh;
+    padding: 12px 41px;
+}
+.faq-text {
+    width: 30vw;
+    height: max-content;
+    /* display: block; */
+    /* background: blueviolet; */
+    text-align: center;
+    transform: translate(0px, 100%);
+    padding: 37px;
+}
+.faq-qna {
+    width: 60vw;
+    padding: 0 37px;
+    /* background: antiquewhite; */
+}
+.accordion {
+    /* height: 66vh; */
+    padding: 27px;
+}

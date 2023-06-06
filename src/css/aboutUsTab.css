@@ -1,0 +1,17 @@
+.stories {
+    display: flex;
+}
+img.story-img.story-img-1 {
+    width: 25vw;
+}
+.story-texts.story-texts-1 {
+    padding: 13px 31px;
+}
+.stories.story-2 {
+    margin-top: 40px;
+}
+.story-texts.story-texts-2 {
+    width: 25vw;
+    margin-right: 26px;
+}
+
